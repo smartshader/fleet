@@ -1,4 +1,4 @@
-module smartshader/ship
+module smartshader/fleet
 
 go 1.21.0
 
